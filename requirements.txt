@@ -1,0 +1,11 @@
+cv2
+numpy==1.18.1
+pandas==1.0.1
+matplotlib
+xlrd
+jupyter
+seaborn
+Pillow
+scikit-learn
+PyQt5
+ipynb
